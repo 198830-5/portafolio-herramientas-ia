@@ -73,6 +73,6 @@ Ejecutaremos en Colab con GPU, con margen para pesos y operaciones adicionales. 
 
 
 
-![Pasted image](MODEL.png)
+![Boceto de la aplicacion](MODEL.png)
 
-![Pasted image](colab.png)
+![Boceto de la aplicacion](colab.png)
