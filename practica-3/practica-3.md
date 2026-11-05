@@ -18,7 +18,7 @@
 | Diego Isaac Rico Hernández |           |
 | César Iván Macías Anguiano |           |
 | Ernesto Tehuintle Ramírez  |           |
-| Sebastián Garcia Vargas    | 197113-2  |
+| Sebastián Garcia Vargas    |           |
 
 **Fecha de entrega:** viernes 25 de septiembre de 2026
 
@@ -73,6 +73,6 @@ Ejecutaremos en Colab con GPU, con margen para pesos y operaciones adicionales. 
 
 
 
-![[Pasted image 20261104173810.png]]
+![Pasted image](20261104173810.png)
 
-![[Pasted image 20261104173702.png]]
+![Pasted image](20261104173702.png)
