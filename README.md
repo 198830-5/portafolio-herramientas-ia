@@ -1,14 +1,13 @@
-\# Portafolio de Sebas garcia
+# Portafolio de Sebas garcia
 
 Herramientas de Procesamiento para IA · Ibero León · Otoño 2026
 
-\## Sobre mí
+## Sobre mí
 
-Estudio Ingeniería en IA y me interesan \*\*los deportes y la probabilidad y estadística aplicada en ellos\*\*.
+Estudio Ingeniería en IA y me interesan **los deportes y la probabilidad y estadística aplicada en ellos**.
+ 
 
-&#x20; 
+## Lista de practicas
 
-\## Lista de practicas
-
-\- \[Práctica 3: README del proyecto](practica-3/practica-3.md)
+[Práctica 3: README del proyecto](practica-3/practica-3.md)
 
